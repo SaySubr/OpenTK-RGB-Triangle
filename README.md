@@ -36,7 +36,7 @@ A simple demonstration project in **C#** using **OpenTK** and **OpenGL 3.3**, sh
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/OpenTK-RGB-Triangle.git
+git clone https://github.com/SaySubr/OpenTK-RGB-Triangle.git
 cd OpenTK-RGB-Triangle
 ```
 
